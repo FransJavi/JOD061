@@ -1,4 +1,4 @@
-. Criar um projeto Unit.
+1. Criar um projeto Unit.
 
 a) Abra o aplicativo UnityHub.
 
